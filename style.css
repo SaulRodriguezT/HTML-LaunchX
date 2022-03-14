@@ -1,0 +1,77 @@
+.site-header{
+    background-color: #9C89B8;
+    margin: 0px;
+    padding: 1%;
+}
+.div-header{
+    text-align: right;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 150%;
+}
+.h2-titulo{
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 200%;
+}
+.site-ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.site-ul li{
+    float: right;
+}
+.site-ul li a{
+    font-size: larger;
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.sabores{
+    display: block;
+    text-align: center;
+}
+.biscocho-title{
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 150%;
+    padding-bottom: 6%;
+    padding-top: 1rem;
+}
+.parr{
+    font-size: 25px;
+    padding-bottom: 1rem;
+    padding-top: 5%;
+}
+.body{
+    background-color: #F0D5EB;
+    position: relative;
+    padding-bottom: 4rem;
+    min-height: 100vh;
+    margin: 0%;
+}
+.table1{
+    text-align: center;
+    background-color: #F0E6EF;
+    border: 1px solid #000;
+}
+
+td, th{
+    width: 15%;
+    border: 1px solid #000;
+    border-spacing: 0;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 150%;
+}
+.fondo{
+    background-color: #9C89B8;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+}
