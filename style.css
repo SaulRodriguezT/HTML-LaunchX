@@ -50,6 +50,8 @@
     background-color: #F0D5EB;
     position: relative;
     padding-bottom: 4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     min-height: 100vh;
     margin: 0%;
 }
