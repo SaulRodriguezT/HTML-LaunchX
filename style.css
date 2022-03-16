@@ -83,3 +83,7 @@ td, th{
     font-family: 'Sansita Swashed', cursive;
     font-size: 200%;
 }
+input.largercheck{
+    width: 50px;
+    height: 50px;
+}
