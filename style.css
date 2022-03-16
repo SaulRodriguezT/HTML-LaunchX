@@ -33,6 +33,7 @@
 .sabores{
     display: block;
     text-align: center;
+    padding-left: 10%;
 }
 .biscocho-title{
     text-align: center;
@@ -76,4 +77,9 @@ td, th{
     width: 100%;
     text-align: center;
     font-family: 'Sansita Swashed', cursive;
+}
+.inv-header{
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 200%;
 }
